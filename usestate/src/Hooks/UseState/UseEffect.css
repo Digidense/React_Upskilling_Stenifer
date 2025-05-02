@@ -1,0 +1,9 @@
+.Class{
+    border: 2px solid green;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.Button{
+    background-color: red;
+}

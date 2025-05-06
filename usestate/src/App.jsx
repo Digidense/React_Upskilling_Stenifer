@@ -12,8 +12,8 @@ function App() {
   return (
     <>
 
-    {/*<UseState/>*/}
-    {<Useeffects/>}
+    {<UseState/>}
+    {/*<Useeffects/>*/}
     
      
     </>  

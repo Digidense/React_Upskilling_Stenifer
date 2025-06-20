@@ -1,0 +1,39 @@
+.Header{
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    height: 250px;
+    width: 400px;
+    background-color: whitesmoke;
+}
+
+body{
+    justify-content: center;
+
+}
+
+.container1{
+    color: red;
+    background-color: antiquewhite;
+    
+}
+
+.container2{
+    color: rgb(243, 232, 232);
+    background-color: rgb(240, 153, 41);
+    margin-left: 5px;
+}
+
+
+.container3{
+    color: rgb(79, 41, 41);
+    background-color: rgb(50, 249, 183);
+    margin-left: 5px;
+}
+
+.Para{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
